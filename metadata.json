@@ -1,0 +1,5 @@
+{
+  "name": "PDF Fusion & Organizer",
+  "description": "Una aplicación web para combinar archivos PDF e imágenes en un solo documento, permitiendo reordenar y ajustar el contenido automáticamente.",
+  "requestFramePermissions": []
+}
